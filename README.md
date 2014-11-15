@@ -34,6 +34,7 @@ Now using R programming and different visualisation techniques,
 we have plotted pie chart and graphs.
 
 Some observations:    
+     
 1. Mostly there is only one face.    
 
 2. There are cases when people just tag "selfie" without even a face in it.    
