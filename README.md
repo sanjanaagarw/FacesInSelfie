@@ -33,7 +33,9 @@ Now using R programming and different visualisation techniques,
 
 we have plotted pie chart and graphs.
 
+![alt tag](https://github.com/jaythegenius48/FacesInSelfie/blob/master/rHighchartsPlot.png)
 
+![alt tag](https://github.com/jaythegenius48/FacesInSelfie/blob/master/FacePlotsSelfie.png)
 
 Some observations:    
      
@@ -43,7 +45,7 @@ Some observations:
 
 3. Maximum number of faces detected were 19.    
 
-![alt tag](https://github.com/jaythegenius48/FacesInSelfie/blob/master/rHighchartsPlot.png)
+
 
 
 First Data Science Project.
