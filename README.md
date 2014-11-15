@@ -43,6 +43,7 @@ Some observations:
 
 3. Maximum number of faces detected were 19.    
 
+![alt tag](https://github.com/jaythegenius48/FacesInSelfie/blob/master/rHighchartsPlot.png)
 
 
 First Data Science Project.
