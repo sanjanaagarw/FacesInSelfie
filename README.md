@@ -33,6 +33,8 @@ Now using R programming and different visualisation techniques,
 
 we have plotted pie chart and graphs.
 
+
+
 Some observations:    
      
 1. Mostly there is only one face.    
