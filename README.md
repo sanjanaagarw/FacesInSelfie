@@ -7,13 +7,15 @@ The purpose of this project is to Find a survey and visulize it using various gr
 
 The survey is to find number of faces in an selfie Image.
 
-Mostly there is only one face but there are cases when people just tag "selfie" without even a face in it.
 
 First Step:
 =============
 
 Download images using Instagram API tagged with "selfie"
+
 See downloadimage.py file
+
+urllib library is used for downloading images 
 
 Second Step:
 =============
@@ -22,14 +24,28 @@ from command line:
 
 python making_csv.py haarcascade_frontalface_default.xml
 
-This will create a csv file which will look something like this:
+This will create a csv file, have a look at "test.csv" file
 
-Serial No.  File Name    Number of Faces
+Third Step:
+=============
 
-1              abc.png        2
-2              pqr.png        1
+Now using R programming and different visualisation techniques, 
 
-and so on
+we have plotted pie chart and graphs.
+
+Some observations:
+1. Mostly there is only one face.
+2. There are cases when people just tag "selfie" without even a face in it.
+3. Maximum number of faces detected were 19.
+
+
+
+First Data Science Project.
+
+Thank you, hope you liked the survey!
+
+
+
 
 
 
